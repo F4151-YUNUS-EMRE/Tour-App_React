@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/F4151-YUNUS-EMRE/Tour-App_React/static/css/main.a93a5d73.css",
+    "main.js": "/F4151-YUNUS-EMRE/Tour-App_React/static/js/main.47232c01.js",
+    "static/js/787.28cb0dcd.chunk.js": "/F4151-YUNUS-EMRE/Tour-App_React/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/F4151-YUNUS-EMRE/Tour-App_React/index.html",
+    "main.a93a5d73.css.map": "/F4151-YUNUS-EMRE/Tour-App_React/static/css/main.a93a5d73.css.map",
+    "main.47232c01.js.map": "/F4151-YUNUS-EMRE/Tour-App_React/static/js/main.47232c01.js.map",
+    "787.28cb0dcd.chunk.js.map": "/F4151-YUNUS-EMRE/Tour-App_React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a93a5d73.css",
+    "static/js/main.47232c01.js"
+  ]
+}
